@@ -1,0 +1,38 @@
+{
+	"servers": 
+	[
+		{
+			"server_id": "coredo_muromachi",
+			"name": 
+			{
+				"en": "COREDO Muromachi",
+				"ja": "COREDO室町"
+			},
+
+			"description": 
+			{
+				"en": "2017年02月08日から利用開始",
+				"ja": "Scheduled to start at February 8, 2017"
+			},
+
+			"hostname": "hokoukukan.au-syd.mybluemix.net"
+		},
+
+		{
+			"server_id": "coredo_test",
+			"name": 
+			{
+				"en": "COREDO Muromachi",
+				"ja": "COREDO室町"
+			},
+
+			"description": 
+			{
+				"en": "Test",
+				"ja": "テスト"
+			},
+
+			"hostname": "hokoukukan.mybluemix.net"
+		}
+	]
+}
