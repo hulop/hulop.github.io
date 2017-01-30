@@ -3,6 +3,7 @@
 	[
 		{
 			"server_id": "coredo_muromachi",
+			"available" : false,
 			"name": 
 			{
 				"en": "COREDO Muromachi",
