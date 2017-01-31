@@ -1,6 +1,6 @@
 ---
 layout: page
-lang: en
+lang: ja
 ---
 
 {% include {{page.lang}}/message.md %}
