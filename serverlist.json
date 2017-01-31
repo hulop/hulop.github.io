@@ -3,7 +3,7 @@
 	[
 		{
 			"server_id": "coredo_muromachi",
-			"available" : false,
+			"available" : true,
 			"name": 
 			{
 				"en": "COREDO Muromachi",
@@ -12,11 +12,11 @@
 
 			"description": 
 			{
-				"en": "Scheduled to start at February 8, 2017",
-				"ja": "2017年02月08日から利用開始"
+			        "en": "",
+				"ja": ""
 			},
 
-			"hostname": "coredo.au-syd.mybluemix.net"
+			"hostname": "hokoukukan.au-syd.mybluemix.net"
 		}
 	]
 }
