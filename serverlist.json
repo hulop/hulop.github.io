@@ -3,7 +3,7 @@
 	[
 		{
 			"server_id": "coredo_muromachi",
-			"available" : true,
+			"available": true,
 			"name": 
 			{
 				"en": "Nihonbashi Muromachi Area",
@@ -12,11 +12,29 @@
 
 			"description": 
 			{
-			        "en": "",
+				"en": "",
 				"ja": ""
 			},
 
 			"hostname": "hokoukukan.au-syd.mybluemix.net"
+		},
+
+		{
+			"server_id": "sample",
+			"available": true,
+			"name": 
+			{
+				"en": "Sample",
+				"ja": "サンプル"
+			},
+
+			"description": 
+			{
+				"en": "",
+				"ja": ""
+			},
+
+			"hostname": "hulop-mapservice.au-syd.mybluemix.net"
 		}
 	]
 }
