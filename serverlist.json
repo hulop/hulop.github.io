@@ -1,40 +1,39 @@
 {
-	"servers": 
-	[
-		{
-			"server_id": "coredo_muromachi",
-			"available": true,
-			"name": 
-			{
-				"en": "Nihonbashi Muromachi Area",
-				"ja": "日本橋室町地区"
-			},
-
-			"description": 
-			{
-				"en": "",
-				"ja": ""
-			},
-
-			"hostname": "hokoukukan.au-syd.mybluemix.net"
-		},
-
-		{
-			"server_id": "sample",
-			"available": true,
-			"name": 
-			{
-				"en": "Sample",
-				"ja": "サンプル"
-			},
-
-			"description": 
-			{
-				"en": "",
-				"ja": ""
-			},
-
-			"hostname": "hulop-mapservice.au-syd.mybluemix.net"
-		}
-	]
+  "servers": 
+  [
+    {
+      "server_id": "coredo_muromachi",
+      "available" : false,
+      "name": 
+      {
+	"en": "COREDO Muromachi",
+	"ja": "COREDO室町"
+      },
+      
+      "description": 
+      {
+	"en": "Scheduled to start at February 8, 2017",
+	"ja": "2017年02月08日から利用開始"
+      },
+      
+      "hostname": "coredo.au-syd.mybluemix.net"
+    },
+    {
+      "server_id": "hulop-map",
+      "available" : true,
+      "name": 
+      {
+	"en": "NavCog Trial",
+	"ja": "NavCogお試し"
+      },
+      
+      "description": 
+      {
+	"en": "You can try NaCog functions (except indoor location).",
+	"ja": "NavCogの機能をお試しいただけます（屋内位置を除く）。"
+      },
+      
+      "hostname": "hulop-mapservice.au-syd.mybluemix.net"
+    }    
+  ]
 }
