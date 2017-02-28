@@ -3,7 +3,7 @@
   [
     {
       "server_id": "coredo_muromachi",
-      "available" : true,
+      "available" : false,
       "name": 
       {
 	"en": "Nihonbashi Muromachi Area",
@@ -12,8 +12,8 @@
       
       "description": 
       {
-	"en": "Field Experiment: From 8th Feb. to 28th Feb.",
-	"ja": "実証実験：　２月８日から２月２８日まで"
+	"en": "Field Experiment was closed. Thank you for your participation.",
+	"ja": "実証実験は終了しました。ご参加有難うございました。"
       },
       
       "hostname": "coredo.au-syd.mybluemix.net"
