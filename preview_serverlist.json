@@ -1,5 +1,5 @@
 {
-  "servers": [
+  "servers2": [
     {
       "server_id": "cmu",
       "available": true,
@@ -15,7 +15,7 @@
       "config_file_name": "server_config_cmu.json"
     }
   ],
-  "servers2": [
+  "servers": [
     {
       "server_id": "cmu_exp",
       "available": true,
