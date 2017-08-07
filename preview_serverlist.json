@@ -1,27 +1,11 @@
 {
-  "servers2": [
-    {
-      "server_id": "cmu",
-      "available": true,
-      "name": {
-        "en": "CMU",
-        "ja": "CMU"
-      },
-      "description": {
-        "en": "",
-        "ja": ""
-      },
-      "hostname": "cmu-map.mybluemix.net",
-      "config_file_name": "server_config_cmu.json"
-    }
-  ],
   "servers": [
     {
       "server_id": "cmu_exp",
       "available": true,
       "name": {
-        "en": "CMU Experiment",
-        "ja": "CMU Experiment"
+        "en": "CMU",
+        "ja": "CMU"
       },
       "description": {
         "en": "",
@@ -29,20 +13,6 @@
       },
       "hostname": "cmu-map.mybluemix.net",
       "config_file_name": "server_config_cmu_exp.json"
-    },
-    {
-      "server_id": "cmu",
-      "available": true,
-      "name": {
-        "en": "CMU",
-        "ja": "CMU"
-      },
-      "description": {
-        "en": "",
-        "ja": ""
-      },
-      "hostname": "cmu-map.mybluemix.net",
-      "config_file_name": "server_config_cmu.json"
     }
   ]
 }
