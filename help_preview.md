@@ -54,7 +54,7 @@ In case the walking is activated (with the Two-Finger Swipe-Up), a single tap on
 In order to quit the current route, the user may select the button on the top-right of the screen. However, another option is to shake the smartphone.
 
 ## NavCog Preview Settings
-In Progress
+In Progress.
 
 ## Frequently Asked Questions (FAQ)
-See if needed
+TO COMPLETE.
