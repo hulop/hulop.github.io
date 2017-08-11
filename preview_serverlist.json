@@ -3,6 +3,7 @@
     {
       "server_id": "cmu_exp",
       "available": true,
+      "selected": true,
       "name": {
         "en": "CMU",
         "ja": "CMU"
