@@ -60,3 +60,27 @@ However, in case you feel more comfortable with meters as distance unit, instead
 In case you don't like to listen to the step sound when walking or moving/jumping between POIs and turning points, you can disable it.
 
 Facility info refers to offices that you may be passing by while previewing. We advise not to change this option, because it increases substantially the amount of information.
+
+## Frequently Asked Questions (FAQ)
+### I can't hear the sound of steps when moving forward. What should I do?
+Please check if the ringer is not in the silent mode or low volume. The ringer needs to be at a reasonable volume in order to be able to listen to the steps.
+If you still do not hear the sound of steps, check the options "Step sound for jump" and "Step sound for walk". Both of these options should be On.
+
+###I do not know what to do when I get next the elevator or when I arrive to the next floor.
+When you are at the elevator, you need to perform a swipe up to get in the elevator and another swipe up to move to the destination floor.
+
+### I am listening to several numbers of offices. How can I remove it?
+You should have both the "Ignore Facility info. for walk" and "for jump" options On. Otherwise the system reads all offices.
+
+### Some error occurred and I do not know what to do.
+Quit the application in the app switcher, and restart it.
+
+
+
+
+
+
+
+
+
+
