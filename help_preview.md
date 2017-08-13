@@ -63,7 +63,7 @@ Facility info refers to offices that you may be passing by while previewing. We 
 
 ## Frequently Asked Questions (FAQ)
 ### I can't hear the sound of steps when moving forward. What should I do?
-Please check if the ringer is not in the silent mode or low volume. The ringer needs to be at a reasonable volume in order to be able to listen to the steps.
+Please check if the volume is not too low or in silent mode.
 If you still do not hear the sound of steps, check the options "Step sound for jump" and "Step sound for walk". Both of these options should be On.
 
 ###I do not know what to do when I get next the elevator or when I arrive to the next floor.
