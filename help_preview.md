@@ -18,7 +18,7 @@ During these days we will call you and ask you information about those routes. W
 
 
 ## NavCog Preview Commands
-Here we describe the different gestures and commands that can be used to interact with NavCog Preview.
+Here we describe the different gestures and commands that can be used to interact with NavCog Preview. 
 
 ### Swipe-Up - Move (or Jump) to the next intersection or point-of-interest
 A Swipe-Up moves the user to the next intersection, point-of-interest or landmark, whichever comes first. After swiping, you can hear a quick-sound of steps to indicate movement, the distance travelled (for instance "30 feet walked") and the next instruction (for instance, "turn right").
@@ -26,7 +26,7 @@ A Swipe-Up moves the user to the next intersection, point-of-interest or landmar
 ### Swipe-Down - Move (or Jump) to the previous intersection or point-of-interest
 A Swipe-Down moves the user to the previous intersection, point-of-interest or landmark, whichever comes first. After swiping, you can hear a quick-sound of steps to indicate movement, the distance travelled (for instance "30 feet walked back") and the next instruction (for instance, "proceed 10 feet and turn right").
 
-### Two-Finger Swipe-Down - Start walking at a fixed speed
+### Two-Finger Swipe-Up - Start walking at a fixed speed
 A Two-Finger Swipe-Up initiates walking at a fixed speed. The user can hear the steps, indicating one step forward, and is informed about the landmarks he is passing by (for example "a column is on your right") and the required instructions (for example "proceed 20 meters" or "turn left").
 If already walking, another Two-Finger Swipe-Up increases the speed, while a Two-Finger Swipe-Down reduces the speed.
 A single tap on the screen stops the walking.
@@ -54,7 +54,9 @@ In case the walking is activated (with the Two-Finger Swipe-Up), a single tap on
 In order to quit the current route, the user may select the button on the top-right of the screen. However, another option is to shake the smartphone.
 
 ## NavCog Preview Settings
-In Progress.
+We advise you to maintain the settings as they are by default.
+However, in case you feel more comfortable with meters as distance unit, instead of feet, please change it in the settings.
 
-## Frequently Asked Questions (FAQ)
-TO COMPLETE.
+In case you don't like to listen to the step sound when walking or moving/jumping between POIs and turning points, you can disable it.
+
+Facility info refers to offices that you may be passing by while previewing. We advise not to change this option, because it increases substantially the amount of information.
