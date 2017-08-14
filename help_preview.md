@@ -13,8 +13,8 @@ Being provided a starting point and a destination, the NavCog Preview provides t
 
 ## NavCog Preview and CMU Experiment
 In this experiment, you will have access to a fixed number of routes. When you start, you will only have access to a practice route, which you can use to learn how to interact with the NavCog Preview. Feel free to contact the researcher (Joao Guerreiro) in case you need to clarify any issue.
-Afterwards, you will have access to two different routes, which you will be able to preview every day for a limited amount of time (20 minutes), before going to the real-world experiment at CMU. We ask you to try to learn as much as you can about those routes.
-During these days we will call you and ask you information about those routes. We ask you to rely exclusively on your memory from the interaction with the system. Please do not take any notes about the route nor record the interaction with the system.
+Afterwards, you will have access to two different routes, which you will be able to preview every day for a maximum of time (20 minutes), before going to the real-world experiment at CMU. We ask you to try to learn as much as you can about those routes.
+During these days we will call you and ask you information about those routes. We ask you not take any notes about the route nor record the interaction with the system.
 
 
 ## NavCog Preview Commands
@@ -50,6 +50,13 @@ Another way to make a turn is to rotate the phone as if actually turning to the 
 ### Tap the phone - Stop walking
 In case the walking is activated (with the Two-Finger Swipe-Up), a single tap on the phone will stop the automatic walking.
 
+###Double Tap (with one finger)
+A double tap repeats the last instruction
+
+###Triple Tap (with one finger)
+A triple tap restarts the navigation at the starting point.
+
+
 ### Shake the Smartphone - Quit the current route
 In order to quit the current route, the user may select the button on the top-right of the screen. However, another option is to shake the smartphone.
 
@@ -63,7 +70,7 @@ Facility info refers to offices that you may be passing by while previewing. We 
 
 ## Frequently Asked Questions (FAQ)
 ### I can't hear the sound of steps when moving forward. What should I do?
-Please check if the volume is not too low or in silent mode.
+Please check if the ringer volume is not in silent mode or very low. In case it is, please increase the volume.
 If you still do not hear the sound of steps, check the options "Step sound for jump" and "Step sound for walk". Both of these options should be On.
 
 ###I do not know what to do when I get next the elevator or when I arrive to the next floor.
@@ -74,9 +81,6 @@ You should have both the "Ignore Facility info. for walk" and "for jump" options
 
 ### Some error occurred and I do not know what to do.
 Quit the application in the app switcher, and restart it.
-
-
-
 
 
 
