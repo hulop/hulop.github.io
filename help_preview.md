@@ -50,10 +50,10 @@ Another way to make a turn is to rotate the phone as if actually turning to the 
 ### Tap the phone - Stop walking
 In case the walking is activated (with the Two-Finger Swipe-Up), a single tap on the phone will stop the automatic walking.
 
-###Double Tap (with one finger)
+### Double Tap (with one finger)
 A double tap repeats the last instruction
 
-###Triple Tap (with one finger)
+### Triple Tap (with one finger)
 A triple tap restarts the navigation at the starting point.
 
 
