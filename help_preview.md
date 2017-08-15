@@ -50,12 +50,11 @@ Another way to make a turn is to rotate the phone as if actually turning to the 
 ### Tap the phone - Stop walking
 In case the walking is activated (with the Two-Finger Swipe-Up), a single tap on the phone will stop the automatic walking.
 
-### Double Tap (with one finger)
-A double tap repeats the last instruction
+### Three-Finger Tap
+A tap on the screen with three fingers repeats the last instruction.
 
-### Triple Tap (with one finger)
-A triple tap restarts the navigation at the starting point.
-
+### Four-Finger Tap
+A tap with four fingers on the lower part of the screen restarts the navigation at the starting point.
 
 ### Shake the Smartphone - Quit the current route
 In order to quit the current route, the user may select the button on the top-right of the screen. However, another option is to shake the smartphone.
