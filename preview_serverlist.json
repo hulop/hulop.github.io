@@ -3,6 +3,7 @@
     {
       "server_id": "cmu-demo-hotel-preview",
       "available": true,
+      "selected": true,
       "name": {
 	"en": "PCB Preview",
 	"ja": "PCB プレビュー"
