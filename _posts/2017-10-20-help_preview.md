@@ -1,6 +1,8 @@
 ---
-layout: page
-lang: en
+layout: post
+title:  How to use NavCog Preview
+date:   2017-10-20 17:20:00 +0900
+tags:   en
 ---
 
 # Help for NavCog Preview
