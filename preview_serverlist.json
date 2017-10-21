@@ -12,7 +12,8 @@
 	"en": "Explore DoubleTree hotel and strip district",
 	"ja": "ダブルツリーホテルとストリップディストリクトの探索"
       },
-      "hostname": "cmu-demo-hotel-preview.mybluemix.net/map"
+      "hostname": "cmu-demo-hotel-preview.mybluemix.net/map",
+      "no_checkagreement": true
     },
     {
       "server_id": "cmu_exp",
