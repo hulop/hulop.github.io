@@ -3,7 +3,7 @@
     {
       "server_id": "cmu-demo-hotel-preview",
       "available": true,
-      "selected": false,
+      "selected": true,
       "name": {
 	"en": "PCB Preview",
 	"ja": "PCB プレビュー"
@@ -12,13 +12,11 @@
 	"en": "Explore DoubleTree hotel and strip district",
 	"ja": "ダブルツリーホテルとストリップディストリクトの探索"
       },
-      "hostname": "cmu-demo-hotel-preview.mybluemix.net/map",
-      "no_checkagreement": true
+      "hostname": "cmu-demo-hotel-preview.mybluemix.net/map"
     },
     {
       "server_id": "cmu_exp",
       "available": true,
-      "selected": true,
       "name": {
         "en": "Example",
         "ja": "Example"
