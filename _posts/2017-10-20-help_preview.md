@@ -16,7 +16,7 @@ After selecting a starting point and a destination, NavCog Preview provides turn
 ## DoubleTree Hotel and the Strip District.
 Before and during the PCB conference, we will enable NavCog Preview for two specific areas: the DoubleTree Hotel, and the Strip District.
 Users will be able to simulate routes at the DoubleTree Hotel in order to familiarize with the environment, before visiting it during the conference. Some route examples can include "From the Main Entrance to the Conference Registration Desk" or "From the Elevator to the Monongahela Room".
-Users will also be able to try routes at the Strip District in order to explore its Points-of-Interest. Besides simulating navigation and knowing which POIs exist, users can also select them to go its FourSquare page. One example is "From Penn Avenue with 25th street to Penn Avenue with 18th Street."
+Users will also be able to try routes at the Strip District in order to explore its Points-of-Interest. Besides simulating navigation and knowing which POIs exist, users can also select them to go their FourSquare pages. One route example is "From Penn Avenue with 25th street to Penn Avenue with 18th Street."
 
 ## NavCog Preview Interface and Commands
 Here we describe the different gestures and commands that can be used to interact with NavCog Preview.
