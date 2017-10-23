@@ -5,22 +5,25 @@ date:   2017-10-20 17:20:00 +0900
 tags:   en
 ---
 
-# Help for NavCog Preview
+# Instructions for NavCog Preview
 
-In this page you can find the description of the NavCog Preview application, including all the commands, important information about the current experiment, and Frequently Asked Questions (FAQ).
+In this page you can find the description of the NavCog Preview application, including all the commands and Frequently Asked Questions (FAQ).
 
 ## NavCog Preview description
-NavCog Preview enables users to simulate a pre-defined route. This intends to increase the knowledge about a particular area before visiting it in person.
-Being provided a starting point and a destination, the NavCog Preview provides turn-by-turn instructions to reach the destination, as well as information about important landmarks and Points of Interest that can be found on the way.
+NavCog Preview enables users to simulate routes both on the first floor of the DoubleTree Hotel by Hilton, and on the Strip District, Pittsburgh. This application intends to increase the knowledge about a particular area before visiting it in person.
+After selecting a starting point and a destination, NavCog Preview provides turn-by-turn instructions to reach the destination, as well as information about important landmarks and Points of Interest that can be found on the way.
 
-## NavCog Preview and CMU Experiment
-In this experiment, you will have access to a fixed number of routes. When you start, you will only have access to a practice route, which you can use to learn how to interact with the NavCog Preview. Feel free to contact the researcher (Joao Guerreiro) in case you need to clarify any issue.
-Afterwards, you will have access to two different routes, which you will be able to preview every day for a maximum of time (20 minutes), before going to the real-world experiment at CMU. We ask you to try to learn as much as you can about those routes.
-During these days we will call you and ask you information about those routes. We ask you not take any notes about the route nor record the interaction with the system.
+## DoubleTree Hotel and the Strip District.
+Before and during the PCB conference, we will enable NavCog Preview for two specific areas: the DoubleTree Hotel, and the Strip District.
+Users will be able to simulate routes at the DoubleTree Hotel in order to familiarize with the environment, before visiting it during the conference. Some route examples can include "From the Main Entrance to the Conference Registration Desk" or "From the Elevator to the Monongahela Room".
+Users will also be able to try routes at the Strip District in order to explore its Points-of-Interest. Besides simulating navigation and knowing which POIs exist, users can also select them to go its FourSquare page. One example is "From Penn Avenue with 25th street to Penn Avenue with 18th Street."
 
+## NavCog Preview Interface and Commands
+Here we describe the different gestures and commands that can be used to interact with NavCog Preview.
+At the main screen, users are able to change the current settings or search for a route. After selecting search, users are able to select the Starting Point (From) and the Destination (To), and select "Preview" to start the navigation. Users can also change the area at any point.
 
-## NavCog Preview Commands
-Here we describe the different gestures and commands that can be used to interact with NavCog Preview. 
+Ater starting the navigation the system will provide you the instructions you need to follow. The main commands you can use to simulate navigation are swiping (up, down, left and right), and rotating the phone.
+More information about each command is presented below:
 
 ### Swipe-Up - Move (or Jump) to the next intersection or point-of-interest
 A Swipe-Up moves the user to the next intersection, point-of-interest or landmark, whichever comes first. After swiping, you can hear a quick-sound of steps to indicate movement, the distance travelled (for instance "30 feet walked") and the next instruction (for instance, "turn right").
@@ -49,6 +52,9 @@ When the user needs to make a turn in order to continue on the route, the smartp
 ### Rotate the smartphone left or right - Turn left and Turn right
 Another way to make a turn is to rotate the phone as if actually turning to the required direction. A confirmation sound is also provided when the turn is completed. The user is then able to return the phone to its original orientation, or keep it with the same orientation after the turn. 
 
+### Double Tap the phone - Select Point of Interest
+In case the user is next to a Point of Interest in the Strip District scenario, a double tap on the phone selects it and redirects the user to its FoursSquare Webpage. The user can then go back, resuming in the current position.
+
 ### Tap the phone - Stop walking
 In case the walking is activated (with the Two-Finger Swipe-Up), a single tap on the phone will stop the automatic walking.
 
@@ -67,18 +73,13 @@ However, in case you feel more comfortable with meters as distance unit, instead
 
 In case you don't like to listen to the step sound when walking or moving/jumping between POIs and turning points, you can disable it.
 
-Facility info refers to offices that you may be passing by while previewing. We advise not to change this option, because it increases substantially the amount of information.
-
 ## Frequently Asked Questions (FAQ)
 ### I can't hear the sound of steps when moving forward. What should I do?
 Please check if the ringer volume is not in silent mode or very low. In case it is, please increase the volume.
 If you still do not hear the sound of steps, check the options "Step sound for jump" and "Step sound for walk". Both of these options should be On.
 
-###I do not know what to do when I get next the elevator or when I arrive to the next floor.
-When you are at the elevator, you need to perform a swipe up to get in the elevator and another swipe up to move to the destination floor.
-
-### I am listening to several numbers of offices. How can I remove it?
-You should have both the "Ignore Facility info. for walk" and "for jump" options On. Otherwise the system reads all offices.
+### When I swipe up, the control center appears. What should I do to avoid this.
+When this happens, please try to perform the swipe-up gestures on the center of the screen instead of the bottom of the screen. This is a know issue that we are currently working on fixing.
 
 ### Some error occurred and I do not know what to do.
 Quit the application in the app switcher, and restart it.
