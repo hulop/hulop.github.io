@@ -2,6 +2,20 @@
   "servers": 
   [
     {
+      "server_id": "cmu-demo-hotel-test",
+      "available": true,
+      "name": {
+	"en": "DoubleTree by Hilton",
+	"ja": "ダブルツリー by ヒルトン"
+      },
+      "description": {
+	"en": "Special for PCB conference 2017",
+	"ja": "PCB会議2017特別企画"
+      },
+      "hostname": "cmu-demo-hotel.mybluemix.net/map",
+      "config_file_name": "server_config_test.json"
+    },      
+    {
       "server_id": "coredo_muromachi",
       "available" : false,
       "name": 
