@@ -2,20 +2,6 @@
   "servers": 
   [
     {
-      "server_id": "dubai",
-      "available": true,
-      "name": {
-	"en": "Dubai Health Forum",
-	"ja": "ドバイ・ヘルス・フォーラム"
-      },
-      "description": {
-	"en": "NavCog demonstration",
-	"ja": "NavCogデモ"
-      },
-      "hostname": "dubai-demo.eu-gb.mybluemix.net/map",
-      "config_file_name": "server_config.json"
-    },
-    {
       "server_id": "cmu-demo-hotel-test",
       "available": true,
       "name": {
