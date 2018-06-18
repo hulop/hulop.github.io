@@ -17,6 +17,21 @@
     }
     ,
     {
+      "server_id": "cmu-map",
+      "available": true,
+      "name": {
+	"en": "Carnegie Mellon University",
+	"ja": "カーネギーメロン大学"
+      },
+      "description": {
+	"en": "",
+	"ja": ""
+      },
+      "hostname": "cmu-map.mybluemix.net",
+      "config_file_name": "server_config_cmu.json"
+    }
+    ,   
+    {
       "server_id": "cmu-demo-hotel-test",
       "available": false,
       "name": {
