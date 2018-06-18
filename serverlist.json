@@ -3,7 +3,7 @@
   [
     {
       "server_id": "cmu-pit-test5",
-      "available": false,
+      "available": true,
       "name": {
 	"en": "Pittsburgh International Airport",
 	"ja": "ピッツバーグ国際空港"
