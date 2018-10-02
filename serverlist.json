@@ -33,13 +33,13 @@
     ,   
     {
       "server_id": "cmu-demo-hotel-test",
-      "available": false,
+      "available": true,
       "name": {
 	"en": "DoubleTree by Hilton",
 	"ja": "ダブルツリー by ヒルトン"
       },
       "description": {
-	"en": "Special for PCB conference 2017",
+	"en": "Special for PCB conference 2018",
 	"ja": "PCB会議2017特別企画"
       },
       "hostname": "cmu-demo-hotel.mybluemix.net/map",
