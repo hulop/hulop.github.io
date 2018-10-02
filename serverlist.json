@@ -40,7 +40,7 @@
       },
       "description": {
 	"en": "Special for PCB conference 2018",
-	"ja": "PCB会議2017特別企画"
+	"ja": "PCB会議2018特別企画"
       },
       "hostname": "cmu-demo-hotel.mybluemix.net/map",
       "config_file_name": "server_config_test.json"
