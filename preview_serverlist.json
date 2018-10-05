@@ -9,10 +9,10 @@
 	"ja": "PCB プレビュー"
       },
       "description": {
-	"en": "Explore DoubleTree hotel and strip district",
-	"ja": "ダブルツリーホテルとストリップディストリクトの探索"
+	"en": "Explore DoubleTree hotel",
+	"ja": "ダブルツリーホテルの探索"
       },
-      "hostname": "cmu-demo-hotel-preview.mybluemix.net/map"
+      "hostname": "cmu-demo-hotel.mybluemix.net/map"
     },
     {
       "server_id": "cmu_exp",
