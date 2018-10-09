@@ -12,8 +12,10 @@
 	"en": "",
 	"ja": ""
       },
-      "hostname": "cmu-pit.mybluemix.net/map",
-      "config_file_name": "server_config6.json"
+      "hostname": "cmu-pit.us-east.mybluemix.net/map",
+      "config_file_name": "server_config6_east.json",
+      "hostname-backup": "cmu-pit.mybluemix.net/map",
+      "config_file_name-backup": "server_config6.json"
     }
     ,
     {
