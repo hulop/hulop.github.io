@@ -10,13 +10,10 @@ tags:   en
 In this page you can find the description of the NavCog Preview application, including all the commands and Frequently Asked Questions (FAQ).
 
 ## NavCog Preview description
-NavCog Preview enables users to simulate routes both on the first floor of the DoubleTree Hotel by Hilton, and on the Strip District, Pittsburgh. This application intends to increase the knowledge about a particular area before visiting it in person.
+NavCog Preview enables users to simulate routes on the first floor of the DoubleTree Hotel by Hilton. This application intends to increase the knowledge about a particular area before visiting it in person.
 After selecting a starting point and a destination, NavCog Preview provides turn-by-turn instructions to reach the destination, as well as information about important landmarks and Points of Interest that can be found on the way.
 
-## DoubleTree Hotel and the Strip District.
-Before and during the PCB conference, we will enable NavCog Preview for two specific areas: the DoubleTree Hotel, and the Strip District.
 Users will be able to simulate routes at the DoubleTree Hotel in order to familiarize with the environment, before visiting it during the conference. Some route examples can include "From the Main Entrance to the Conference Registration Desk" or "From the Elevator to the Monongahela Room".
-Users will also be able to try routes at the Strip District in order to explore its Points-of-Interest. Besides simulating navigation and knowing which POIs exist, users can also select them to go their FourSquare pages. One route example is "From Penn Avenue with 25th street to Penn Avenue with 18th Street."
 
 ## NavCog Preview Interface and Commands
 Here we describe the different gestures and commands that can be used to interact with NavCog Preview.
@@ -50,10 +47,7 @@ Similar to the Three-Finger Swipe-Up, but moves the user to the previous interse
 When the user needs to make a turn in order to continue on the route, the smartphone vibrates and the system announces that a turn is required (for example "turn right" or "slight right"). In order to turn, the user can make swipe in the direction of the required turn (left or right). A confirmation sound is provided if the turn is succeeded. 
 
 ### Rotate the smartphone left or right - Turn left and Turn right
-Another way to make a turn is to rotate the phone as if actually turning to the required direction. A confirmation sound is also provided when the turn is completed. The user is then able to return the phone to its original orientation, or keep it with the same orientation after the turn. 
-
-### Double Tap the phone - Select Point of Interest
-In case the user is next to a Point of Interest in the Strip District scenario, a double tap on the phone selects it and redirects the user to its FoursSquare Webpage. The user can then go back, resuming in the current position.
+Another way to make a turn is to rotate the phone as if actually turning to the required direction. A confirmation sound is also provided when the turn is completed. The user is then able to return the phone to its original orientation, or keep it with the same orientation after the turn.
 
 ### Tap the phone - Stop walking
 In case the walking is activated (with the Two-Finger Swipe-Up), a single tap on the phone will stop the automatic walking.
