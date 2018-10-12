@@ -1,6 +1,23 @@
 {
   "servers":  
-  [
+  [    
+    {
+      "server_id": "cmu-demo-hotel-test",
+      "available": true,
+      "name": {
+	"en": "DoubleTree by Hilton",
+	"ja": "ダブルツリー by ヒルトン"
+      },
+      "description": {
+	"en": "Special for PCB conference 2018",
+	"ja": "PCB会議2018特別企画"
+      },
+      "hostname": "cmu-demo-hotel.us-east.mybluemix.net/map",
+      "config_file_name": "server_config_test_east.json",
+      "hostname-backup": "cmu-demo-hotel.mybluemix.net/map",
+      "config_file_name-backup": "server_config_test.json"
+    }
+    , 
     {
       "server_id": "cmu-pit-test5",
       "available": true,
@@ -34,23 +51,7 @@
       "hostname-backup": "cmu-map.mybluemix.net/map",
       "config_file_name-backup": "server_config_cmu.json"
     }
-    ,   
-    {
-      "server_id": "cmu-demo-hotel-test",
-      "available": true,
-      "name": {
-	"en": "DoubleTree by Hilton",
-	"ja": "ダブルツリー by ヒルトン"
-      },
-      "description": {
-	"en": "Special for PCB conference 2018",
-	"ja": "PCB会議2018特別企画"
-      },
-      "hostname": "cmu-demo-hotel.us-east.mybluemix.net/map",
-      "config_file_name": "server_config_test_east.json",
-      "hostname-backup": "cmu-demo-hotel.mybluemix.net/map",
-      "config_file_name-backup": "server_config_test.json"
-    },      
+    ,        
     {
       "server_id": "coredo_muromachi",
       "available" : false,
