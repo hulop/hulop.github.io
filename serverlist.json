@@ -13,9 +13,9 @@
 	"ja": "PCB会議2018特別企画"
       },
       "hostname": "cmu-demo-hotel.us-east.mybluemix.net/map",
-      "config_file_name": "server_config_test_east.json",
+      "config_file_name": "server_config_2018-2_east.json",
       "hostname-backup": "cmu-demo-hotel.mybluemix.net/map",
-      "config_file_name-backup": "server_config_test.json"
+      "config_file_name-backup": "server_config_2018-2.json"
     }
     , 
     {
