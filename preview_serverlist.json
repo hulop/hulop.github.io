@@ -12,10 +12,8 @@
 	"en": "Explore DoubleTree hotel",
 	"ja": "ダブルツリーホテルの探索"
       },
-      "hostname": "cmu-demo-hotel.us-east.mybluemix.net/map",
-      "hostname-backup": "cmu-demo-hotel.mybluemix.net/map",	    
-      "config_file_name": "server_config_test_east.json",
-      "config_file_name-backup": "server_config_test.json"
+      "hostname": "cmu-demo-hotel.us-east.mybluemix.net/map",    
+      "config_file_name": "server_config_2018-3.json",
     },
     {
       "server_id": "cmu_exp",
