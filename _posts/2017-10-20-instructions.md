@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  About NavCog / Instructions for Visually Impaired Users
-date:   2017-10-20 17:20:00 +0900
+date:   2019-08-09 17:10:00 -0500
 tags:   en
 ---
 {% include en/_about_navcog.md %}
