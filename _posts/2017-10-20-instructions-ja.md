@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  NavCog / 視覚障害者モードについて
-date:   2019-08-09 19:05:00 -0500
+date:   2019-08-09 17:05:00 -0500
 tags:   ja
 lang: ja
 ---
