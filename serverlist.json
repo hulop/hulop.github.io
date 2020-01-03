@@ -1,105 +1,78 @@
 {
-  "servers": [
-    {
-      "server_id": "cmu-pit-2019",
-      "available": true,
-      "name": {
-        "en": "Pittsburgh International Airport",
-        "ja": "ピッツバーグ国際空港"
-      },
-      "description": {
-        "en": "",
-        "ja": ""
-      },
-      "hostname": "cmu-pit.us-east.mybluemix.net/map",
-      "config_file_name": "server_configFull_east_v7d2smooth.json"
-    },
-    {
-      "server_id": "cmu-map",
-      "available": true,
-      "name": {
-        "en": "Carnegie Mellon University",
-        "ja": "カーネギーメロン大学"
-      },
-      "description": {
-        "en": "",
-        "ja": ""
-      },
-      "hostname": "cmu-map.us-east.mybluemix.net/map",
-      "config_file_name": "server_config_cmu_east.json",
-      "hostname-backup": "cmu-map.mybluemix.net/map",
-      "config_file_name-backup": "server_config_cmu.json"
-    },
-    {
-      "server_id": "agh-map",
-      "available": true,
-      "name": {
-        "en": "Allegheny General Hospital",
-        "ja": "アレゲニー総合病院"
-      },
-      "description": {
-        "en": "",
-        "ja": ""
-      },
-      "hostname": "agh-map2.mybluemix.net/map",
-      "config_file_name": "server_config_agh2.json"
-    },
-    {
-      "server_id": "shimizu-hq",
-      "available": true,
-      "name": {
-        "en": "Shimizu Corporation Headquarters",
-        "ja": "清水建設 本社"
-      },
-      "description": {
-        "en": "",
-        "ja": ""
-      },
-      "hostname": "shimizu-test.au-syd.mybluemix.net/map",
-      "config_file_name": "server_config.json"
-    },
-    {
-      "server_id": "coredo_muromachi",
-      "available": false,
-      "name": {
-        "en": "Nihonbashi Muromachi Area",
-        "ja": "日本橋室町地区"
-      },
-      "description": {
-        "en": "Field Experiment was closed. Thank you for your participation.",
-        "ja": "実証実験は終了しました。ご参加有難うございました。"
-      },
-      "hostname": ""
-    },
-    {
-      "server_id": "cmu-demo-hotel-test",
-      "available": false,
-      "name": {
-        "en": "DoubleTree by Hilton",
-        "ja": "ダブルツリー by ヒルトン"
-      },
-      "description": {
-        "en": "Special for PCB conference 2018",
-        "ja": "PCB会議2018特別企画"
-      },
-      "hostname": "cmu-demo-hotel.us-east.mybluemix.net/map",
-      "config_file_name": "server_config_2018-2_east.json",
-      "hostname-backup": "cmu-demo-hotel.mybluemix.net/map",
-      "config_file_name-backup": "server_config_2018-2.json"
-    },
-    {
-      "server_id": "hulop-map",
-      "available": true,
-      "name": {
-        "en": "NavCog Trial",
-        "ja": "NavCogお試し"
-      },
-      "description": {
-        "en": "You can try NavCog functions (except indoor location).",
-        "ja": "NavCogの機能をお試しいただけます（屋内位置を除く）。"
-      },
-      "hostname": "hulop-mapservice.au-syd.mybluemix.net",
-      "config_file_name": "server_config.json"
-    }
-  ]
+    "servers": [
+        {
+            "server_id": "cmu-pit-2019",
+            "available": true,
+            "name": {
+                "en": "Pittsburgh International Airport",
+                "ja": "ピッツバーグ国際空港"
+            },
+            "description": {
+                "en": "",
+                "ja": ""
+            },
+            "hostname": "cmu-pit.us-east.mybluemix.net/map",
+            "config_file_name": "server_configFull_east_v7d2smooth.json"
+        },
+        {
+            "server_id": "cmu-map",
+            "available": true,
+            "name": {
+                "en": "Carnegie Mellon University",
+                "ja": "カーネギーメロン大学"
+            },
+            "description": {
+                "en": "",
+                "ja": ""
+            },
+            "hostname": "cmu-map.us-east.mybluemix.net/map",
+            "config_file_name": "server_config_cmu_east.json",
+            "hostname-backup": "cmu-map.mybluemix.net/map",
+            "config_file_name-backup": "server_config_cmu.json"
+        },
+        {
+            "server_id": "agh-map",
+            "available": true,
+            "name": {
+                "en": "Allegheny General Hospital",
+                "ja": "アレゲニー総合病院"
+            },
+            "description": {
+                "en": "",
+                "ja": ""
+            },
+            "hostname": "agh-map2.mybluemix.net/map",
+            "config_file_name": "server_config_agh2.json"
+        },
+        {
+            "server_id": "shimizu-hq",
+            "available": true,
+            "name": {
+                "en": "Shimizu Corporation Headquarters",
+                "ja": "清水建設 本社"
+            },
+            "description": {
+                "en": "",
+                "ja": ""
+            },
+            "hostname": "shimizu-test.au-syd.mybluemix.net/map",
+            "config_file_name": "server_config.json"
+        },
+        {
+            "server_id": "cmu-demo-hotel-test",
+            "available": false,
+            "name": {
+                "en": "DoubleTree by Hilton",
+                "ja": "ダブルツリー by ヒルトン"
+            },
+            "description": {
+                "en": "Special for PCB conference 2018",
+                "ja": "PCB会議2018特別企画"
+            },
+            "hostname": "cmu-demo-hotel.us-east.mybluemix.net/map",
+            "config_file_name": "server_config_2018-2_east.json",
+            "hostname-backup": "cmu-demo-hotel.mybluemix.net/map",
+            "config_file_name-backup": "server_config_2018-2.json"
+        }
+    ]
 }
