@@ -42,7 +42,7 @@
                 "ja": ""
             },
             "hostname": "agh-map.us-east.mybluemix.net/map",
-            "config_file_name": "server_config_agh_east.json"
+            "config_file_name": "server_config_agh2.json"
         },
         {
             "server_id": "shimizu-hq",
