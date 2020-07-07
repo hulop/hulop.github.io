@@ -45,20 +45,6 @@
             "config_file_name": "server_config_agh2.json"
         },
         {
-            "server_id": "shimizu-hq",
-            "available": true,
-            "name": {
-                "en": "Shimizu Corporation Headquarters",
-                "ja": "清水建設 本社"
-            },
-            "description": {
-                "en": "",
-                "ja": ""
-            },
-            "hostname": "shimizu-hq.au-syd.mybluemix.net/map",
-            "config_file_name": "server_config.json"
-        },
-        {
             "server_id": "cmu-demo-hotel-test",
             "available": false,
             "name": {
