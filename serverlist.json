@@ -2,14 +2,14 @@
     "servers": [
         {
             "server_id": "cmu-pit-2019",
-            "available": false,
+            "available": true,
             "name": {
                 "en": "Pittsburgh International Airport",
                 "ja": "ピッツバーグ国際空港"
             },
             "description": {
-                "en": "temporarily unavailable due to circumstances of COVID-19 infection",
-                "ja": "新型コロナウイルス感染症の感染拡大に伴い一時的にサービスを停止しています"
+                "en": "",
+                "ja": ""
             },
             "hostname": "cmu-pit.us-east.mybluemix.net/map",
             "config_file_name": "server_configFull_east_v7d2smooth.json"
