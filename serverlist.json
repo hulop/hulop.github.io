@@ -2,14 +2,14 @@
     "servers": [
         {
             "server_id": "cmu-pit-2019",
-            "available": true,
+            "available": false,
             "name": {
                 "en": "Pittsburgh International Airport",
                 "ja": "ピッツバーグ国際空港"
             },
             "description": {
-                "en": "",
-                "ja": ""
+                "en": "Thank you for using our service. The service has now ended.",
+                "ja": "ご利用ありがとうございました。サービスは終了しました。"
             },
             "hostname": "cmu-pit.tm3z6s5jts9.us-east.codeengine.appdomain.cloud/map",
             "config_file_name": "server_configFull_east_v7d2smooth.json"
@@ -38,8 +38,8 @@
                 "ja": "アレゲニー総合病院"
             },
             "description": {
-                "en": "temporarily unavailable due to circumstances of COVID-19 infection",
-                "ja": "新型コロナウイルス感染症の感染拡大に伴い一時的にサービスを停止しています"
+                "en": "Thank you for using our service. The service has now ended.",
+                "ja": "ご利用ありがとうございました。サービスは終了しました。"
             },
             "hostname": "agh-map.us-east.mybluemix.net/map",
             "config_file_name": "server_config_agh2.json"
